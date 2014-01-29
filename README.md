@@ -1,5 +1,5 @@
-#English to Persian Dictionary with Python and PyQt for LINUX 
------------------------------------------------------------------------------------
+##English to Persian Dictionary with Python and PyQt for LINUX 
+
 ## How to produce :
 
 This software was created initially to store the words that I encountered to them,that i did not know the English meaning of it,during the reading !
@@ -25,7 +25,7 @@ And gradually to obviation the need for translation be a dictionary !
 
 -------------------------------------------------------------------------------------
 
-#واژه نامه انگلیسی به فارسی ی PersDic به زبان پاتون برای لینوکس 
+واژه نامه انگلیسی به فارسی PersDic به زبان پاتون برای لینوکس 
 
 ##چگونگی تولید:
 
