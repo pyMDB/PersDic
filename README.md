@@ -2,8 +2,8 @@
 
 ## How to produce :
 
-This software was created initially to store the words that I encountered to them,that i did not know the English meaning of it,during the reading !
-And gradually to obviation the need for translation be a dictionary !
+This software initially was created to store the words I encountered to them during the reading ,that i didnt know the English meaning of it !
+And gradually to obviation the need for translation ,became a dictionary !
 
 ## Features:
 
